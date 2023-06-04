@@ -7,5 +7,5 @@ module.exports = {
        agregar:  require('./agregar'),
     //   filtrar :  require('./filtar'),
     //   editar : require('./editar'),
-    //   buscar :  require('./buscar')
+       buscar :  require('./buscar')
     };
