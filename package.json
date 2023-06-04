@@ -1,19 +1,12 @@
 {
-<<<<<<< HEAD
-  "name": "libreriaconramas",
-  "version": "1.0.0",
-  "description": "Este es un repositorio para nuestro proyecto de trabajo grupal en GitHub. Aquí compartiremos y colaboraremos en el desarrollo de un sistema de control de stock para una libreria.",
-  "main": "app.js",
-=======
   "dependencies": {
-    "colors": "^1.4.0"
+   "colors": "^1.4.0"
   },
   "name": "libreriaconramas",
   "description": "Este es un repositorio para nuestro proyecto de trabajo grupal en GitHub. Aquí compartiremos y colaboraremos en el desarrollo de un sistema de control de stock para una libreria.",
   "version": "1.0.0",
   "main": "app.js",
   "devDependencies": {},
->>>>>>> 48f54d0d191116795ddf27d513e1df45ade7fdbd
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
