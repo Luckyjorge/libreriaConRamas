@@ -3,9 +3,9 @@
 
 module.exports = {
     //   productos : leerJSON(),
-    //   listar : require('./listar'),
+    //listar : require('./listar'),
     //   agregar:  require('./agregar'),
-    //   filtrar :  require('./filtar'),
+    filtrar :  require('./filtar'),
     //   editar : require('./editar'),
     //   buscar :  require('./buscar')
     };

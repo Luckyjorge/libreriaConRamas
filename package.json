@@ -1,0 +1,12 @@
+{
+  "name": "libreriaconramas",
+  "version": "1.0.0",
+  "description": "Este es un repositorio para nuestro proyecto de trabajo grupal en GitHub. Aquí compartiremos y colaboraremos en el desarrollo de un sistema de control de stock para una libreria.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
