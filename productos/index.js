@@ -1,11 +1,11 @@
-//const {leerJSON,escribirJSON} = require('../data');
-//const Producto = require('./Producto');
+const { leerJSON, escribirJSON } = require('../data');
+const Producto = require('./Producto');
 
 module.exports = {
-    //   productos : leerJSON(),
-    //   listar : require('./listar'),
-    //   agregar:  require('./agregar'),
-    //   filtrar :  require('./filtar'),
+    productos: leerJSON(),
+    filtrar: require('./filtar'),
+    listar: require('./listar'),
+    agregar: require('./agregar'),
     //   editar : require('./editar'),
-    //   buscar :  require('./buscar')
-    };
+    buscar: require('./buscar')
+};

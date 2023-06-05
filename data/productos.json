@@ -123,5 +123,13 @@
       "precio": 5000,
       "descuento": 0,
       "stock": true
+   },
+   {
+      "id": 15,
+      "nombre": "plasticola",
+      "marca": "topolino",
+      "precio": 600,
+      "descuento": 0,
+      "stock": true
    }
 ]
