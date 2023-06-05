@@ -27,7 +27,7 @@ switch (comando) {
     }
 
     if(moduloProductos.buscar(nombre)){
-      console.log("ERROR: El ya existe en la base de datos");
+      console.log("ERROR: El producto ya existe en la base de datos");
       break
     }
 
