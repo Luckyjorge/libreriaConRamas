@@ -24,7 +24,7 @@ Utilizaremos el codigo visto en clases y modularizado segun la necesidad del equ
 
 ### Miembros del equipo
 -[Jorge Falcon](https://github.com/Luckyjorge)  
--[Federico Chandia](https://github.com//Federico-Chandia)
+-[Federico Chandia](https://github.com//Federico-Chandia)  
 -[Maximiliano Cartier](https://github.com/MaxiCartier)   
 -[Mi perfil de GitHub](https://github.com/nombre-usuario) CAMBIAR  
 -[Mi perfil de GitHub](https://github.com/nombre-usuario) CAMBIAR
