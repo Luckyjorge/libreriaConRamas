@@ -1,6 +1,7 @@
 {
+  "json.schemaDownload.enable": true,
   "dependencies": {
-    "colors": "^1.4.0"
+   "colors": "^1.4.0"
   },
   "name": "libreriaconramas",
   "description": "Este es un repositorio para nuestro proyecto de trabajo grupal en GitHub. Aquí compartiremos y colaboraremos en el desarrollo de un sistema de control de stock para una libreria.",
