@@ -139,5 +139,13 @@
       "precio": 120,
       "descuento": 0,
       "stock": true
+   },
+   {
+      "id": 17,
+      "nombre": "escalimetro",
+      "marca": "pizzini",
+      "precio": 2500,
+      "descuento": 0,
+      "stock": false
    }
 ]

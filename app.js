@@ -26,7 +26,7 @@ switch (comando) {
       break;
     }
 
-    if(moduloProductos.buscar(nombre)){
+    if (moduloProductos.buscar(nombre)) {
       console.log("ERROR: El producto ya existe en la base de datos");
       break
     }
@@ -37,8 +37,8 @@ switch (comando) {
 
     break;
   case "filtrar":
-    let categorias = ["comercial","escolar","artistica"];
-    if(!categorias.includes(argv[3].toLowerCase())){
+    let categorias = ["comercial", "escolar", "artistica"];
+    if (!categorias.includes(argv[3].toLowerCase())) {
       console.log("ERROR: Categoría inexistente. Seleccione una de las siguientes: comercial|escolar|artistica".red);
       break
     }
@@ -48,7 +48,7 @@ switch (comando) {
 
   case "editar":
     respuesta = moduloProductos.editar(+argv[3]);
-    //moduloProductos.listar(respuesta);
+    moduloProductos.listar();
     console.log(respuesta.green);
     break;
 
